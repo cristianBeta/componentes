@@ -1,0 +1,21 @@
+
+.user-registration {
+    text-align: center;
+    margin: 20px;
+    background: linear-gradient(to right, #e0f7fa, #80deea); 
+
+  }
+  
+  form input {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  button {
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
